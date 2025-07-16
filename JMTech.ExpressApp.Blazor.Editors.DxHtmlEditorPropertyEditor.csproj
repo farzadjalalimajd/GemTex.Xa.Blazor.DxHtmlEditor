@@ -7,7 +7,7 @@
 	<AssemblyVersion>24.2.8.0</AssemblyVersion>
 	<Version>24.2.8.0</Version>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<RepositoryUrl>https://github.com/farzadjalalimajd/JMTech.ExpressApp.Blazor.Editors.DxHtmlEditorPropertyEditor</RepositoryUrl>
+	<RepositoryUrl>https://github.com/farzadjalalimajd/DxHtmlEditorPropertyEditor</RepositoryUrl>
 	<Title>ExpressApp Blazor DxHtmlEditorPropertyEditor</Title>
 	<Authors>Farzad Jalali Majd</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
