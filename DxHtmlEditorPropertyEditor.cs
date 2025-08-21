@@ -1,10 +1,10 @@
 ﻿using DevExpress.ExpressApp.Blazor.Editors;
 using DevExpress.ExpressApp.Blazor.Editors.Adapters;
 using DevExpress.ExpressApp.Model;
-using JMTech.ExpressApp.Blazor.Editors.Adapters;
-using JMTech.ExpressApp.Blazor.Editors.Models;
+using AvTex.ExpressApp.Blazor.Editors.Adapters;
+using AvTex.ExpressApp.Blazor.Editors.Models;
 
-namespace JMTech.ExpressApp.Blazor.Editors;
+namespace AvTex.ExpressApp.Blazor.Editors;
 
 /// <summary>
 /// Requirements:
